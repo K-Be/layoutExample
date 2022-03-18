@@ -13,6 +13,7 @@
 		1363D0F527E4416E00DB9536 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1363D0F327E4416E00DB9536 /* Main.storyboard */; };
 		1363D0F727E4417100DB9536 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1363D0F627E4417100DB9536 /* Assets.xcassets */; };
 		1363D0FA27E4417100DB9536 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1363D0F827E4417100DB9536 /* LaunchScreen.storyboard */; };
+		1363D10227E457C300DB9536 /* CustomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1363D10127E457C300DB9536 /* CustomView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1363D0F627E4417100DB9536 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1363D0F927E4417100DB9536 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1363D0FB27E4417100DB9536 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1363D10127E457C300DB9536 /* CustomView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				1363D0ED27E4416E00DB9536 /* AppDelegate.swift */,
 				1363D0EF27E4416E00DB9536 /* SceneDelegate.swift */,
 				1363D0F127E4416E00DB9536 /* ViewController.swift */,
+				1363D10127E457C300DB9536 /* CustomView.swift */,
 				1363D0F327E4416E00DB9536 /* Main.storyboard */,
 				1363D0F627E4417100DB9536 /* Assets.xcassets */,
 				1363D0F827E4417100DB9536 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1363D0F227E4416E00DB9536 /* ViewController.swift in Sources */,
+				1363D10227E457C300DB9536 /* CustomView.swift in Sources */,
 				1363D0EE27E4416E00DB9536 /* AppDelegate.swift in Sources */,
 				1363D0F027E4416E00DB9536 /* SceneDelegate.swift in Sources */,
 			);
